@@ -1,5 +1,5 @@
 <h1>Hello everyone!</h1>
-	<p>My name is SmerchProsto, this my github!</p>
+	<p>My name is <b>SmerchProsto</b>, this my <b>github!</b></p>
 	<img src="https://img.itch.zone/aW1nLzE5OTQ5NTcuZ2lm/original/q4tAJu.gif" alt="">
 	<p>I am a programmer student from Russia.</p>
 	<ul>
@@ -22,5 +22,30 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373288/maven.svg" alt="maven" width="40" height="40"/> </a>
+			h3>Skills:</h3>
+  	<div>
+  		<p>Java:</p>
+  		<ul>
+  			<li>Java Core</li>
+  			<li>SAX,StAX,DOM parsers for xml</li>
+  			<li>JSP</li>
+  			<li>Servlets</li>
+  			<li>JDBC</li>
+  			<li>JavaFX</li>
+  			<li>Swing</li>
+  		</ul>
+  		<p>Web:</p>
+  		<ul>
+  			<li>HTML5</li>
+  			<li>CSS3</li>
+  			<li>Javascript</li>
+  			<li>Jquery</li>
+  			<li>Adaptive layout</li>
+  			<li>Cross-browser compatibility</li>
+  			<li>DOM</li>
+  			<li>Node.js</li>
+  			<li>Bootstrap</li>
+  			<li>NW.js</li>
+  		</ul>
   </div>
 	</div>
