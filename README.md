@@ -27,7 +27,7 @@
   		<p>Java:</p>
   		<ul>
   			<li>Java Core</li>
-  			<li>SAX,StAX,DOM parsers for xml</li>
+  			<li>SAX,StAX,DOM parsers for XML</li>
   			<li>JSP</li>
   			<li>Servlets</li>
   			<li>JDBC</li>
