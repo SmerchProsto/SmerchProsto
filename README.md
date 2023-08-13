@@ -7,7 +7,7 @@
 		<li>🕸Now i am actively learning backend on Java (RestAPI,<a href="https://spring.io/projects/spring-boot">Spring boot</a>)</li>
 		<li>💼I am currently developing in the field of web. You can see my <a href="https://smerchprosto.github.io/">portfolio</a></li>
 		<li>📫 How to reach me gmail: smerchprosto@gmail.com</li>
-		<li>☢ My last project: <a href="https://github.com/SmerchProsto/java-programming-course-3/tree/main/%D0%9B%D0%B0%D0%B1%D0%B0%204%2B">employee accounting program</a></li>
+		<li>☢ My last project: <a href="https://github.com/SmerchProsto/Ulbi-React-course">Post service</a></li>
 	</ul>
 	<div>
 		<h2>Tools and skills</h2>
