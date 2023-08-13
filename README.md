@@ -3,7 +3,7 @@
 	<img src="https://img.itch.zone/aW1nLzE5OTQ5NTcuZ2lm/original/q4tAJu.gif" alt="">
 	<p>I am a programmer student from Russia.</p>
 	<ul>
-		<li>💻️ I have been learning programming for about 5 years since high school. I am currently a 3rd year student at PSUTI University. </li>
+		<li>💻️ I have been learning programming for about 5 years since high school. I am currently a 4rd year student at PSUTI University. </li>
 		<li>🕸Now i am actively learning backend on Java (RestAPI,<a href="https://spring.io/projects/spring-boot">Spring boot</a>)</li>
 		<li>💼I am currently developing in the field of web. You can see my <a href="https://smerchprosto.github.io/">portfolio</a></li>
 		<li>📫 How to reach me gmail: smerchprosto@gmail.com</li>
