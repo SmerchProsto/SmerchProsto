@@ -1,4 +1,4 @@
-	<h1>Hello everyone!</h1>
+<h1>Hello everyone!</h1>
 	<p>My name is <b>SmerchProsto</b>, this my <b>github!</b></p>
 	<img src="https://img.itch.zone/aW1nLzE5OTQ5NTcuZ2lm/original/q4tAJu.gif" alt="">
 	<p>I am a programmer developer from Russia.</p>
