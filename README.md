@@ -1,4 +1,10 @@
-<style>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Портфолио</title>
+    <style>
         body {
             margin: 0;
             font-family: Arial, sans-serif;
@@ -6,28 +12,23 @@
             color: #e0e0e0;
             line-height: 1.6;
         }
-
         a {
             color: #1e90ff;
             text-decoration: none;
         }
-
         a:hover {
             text-decoration: underline;
         }
-
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
         }
-
         h1, h2, h3 {
             color: #ffffff;
             border-bottom: 2px solid #444;
             padding-bottom: 10px;
         }
-
         .block {
             margin-bottom: 30px;
             padding: 20px;
@@ -35,24 +36,20 @@
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
         }
-
         .block a {
             display: inline-block;
             margin-top: 10px;
             color: #1e90ff;
         }
-
         .tech-stack {
             display: flex;
             flex-wrap: wrap;
             gap: 15px;
         }
-
         .tech-stack img {
             width: 40px;
             height: 40px;
         }
-
         .subblock {
             margin-top: 15px;
             padding: 15px;
@@ -60,7 +57,9 @@
             border-radius: 8px;
         }
     </style>
-<div class="container">
+</head>
+<body>
+    <div class="container">
         <h1>Портфолио</h1>
         <div class="block">
             <h2>Опыт в разработке</h2>
@@ -109,6 +108,9 @@
                 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
                     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgres">
                 </a>
+                <!-- Add more icons as necessary -->
             </div>
         </div>
     </div>
+</body>
+</html>
